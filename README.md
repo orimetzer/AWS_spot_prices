@@ -1,3 +1,7 @@
+An application for pulling and displaying AWS current spot prices<br>
+The backend and the data extraction was made with python and modules such as - psycopg2 and boto3. The data was stored in a Postgres DB. The frontend was made with React and Vite. <br>
+
+
 **Project Setup Instructions**<br>
 Prerequisites:
 - PostgreSQL installed on your local machine.<br>
